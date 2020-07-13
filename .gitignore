@@ -1,0 +1,4 @@
+node_modules/
+obj/
+bin/
+Book_API/appsettings.json
